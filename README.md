@@ -1,2 +1,2 @@
 # MIDI_Controller
-Arduino - based MIDI Controller with LCD Display 
+Arduino - based MIDI Controller with Display for Extended Control
